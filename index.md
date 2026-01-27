@@ -3,11 +3,11 @@ layout: default
 title: Home
 ---
 
-# Your Name Here
+# Bryan Nguyen
 
-[Paste your professional paragraph from Week 2 here]
+Bryan Nguyen is an aspiring software engineer and a freshman majoring in Computer Science at the University of Central Florida. He is seeking an entry-level or junior position in the technology sector. He is proficient in programming languages, including C, Python, and Java, and continues to strengthen these skills through coursework and collaborative projects. One of his major projects, Ez Cal, was developed with teammates as a web-based application designed to calculate and maximize profit in trading operations, demonstrating his ability to apply programming principles to solve real-world problems. This portfolio demonstrates his expertise in computer science.
 
-## Professional Writing Samples/Projects
+
 
 - [Resume](resume.md)
 - [Cover Letter](coverletter.md)
