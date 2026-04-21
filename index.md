@@ -11,5 +11,5 @@ Bryan Nguyen is an aspiring software engineer and a freshman majoring in Compute
 
 - [Resume](resume.md)
 - [Cover Letter](coverletter.md)
-- [Instructions](instructions.md)
-- [Proposal](proposal.md)
+- [Instructions](instructions.pdf)
+- [Proposal](proposal.pdf)
