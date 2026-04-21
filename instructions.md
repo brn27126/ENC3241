@@ -5,4 +5,4 @@ title: Instructions
 
 # Instructions
 
-[Paste your instructions here]
+<li><a href="instructions.md" target="_blank">Instructions</a></li>
